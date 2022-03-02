@@ -21,8 +21,8 @@
 示例代码
 
 ```java
-//输入参数魏游玩人数
+//输入参数代表游戏游玩人数
 Game game = new Doudizhu(3);
 game.reStartAGame();
+```
 
-```java
